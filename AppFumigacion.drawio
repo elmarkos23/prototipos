@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-30T16:12:50.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="Snu2O_vaGUwgh15lC9Oc" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-30T16:14:31.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="X3YVYKPQ3mgtwZm2d5Nx" version="17.5.0" type="github">
   <diagram id="B1rS9bqpKSy4gRJ6OLqf" name="Page-1">
     <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
           <mxGeometry x="987.5" y="70" width="185" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E0qXdNN0w-Io1s_kiMO5-44" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#xa;" style="text;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=middle;align=center;labelBackgroundColor=none;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="123" width="180" height="100" as="geometry" />
+          <mxGeometry x="1230" y="123" width="180" height="97" as="geometry" />
         </mxCell>
         <mxCell id="E0qXdNN0w-Io1s_kiMO5-45" value="Proxima Visita" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1230" y="225" width="97.5" height="30" as="geometry" />
@@ -140,6 +140,24 @@
         </mxCell>
         <mxCell id="E0qXdNN0w-Io1s_kiMO5-57" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-2/50/star-favorite-favourite-rating-score-128.png;strokeColor=default;fillColor=#6666FF;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="1370" y="285" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="E0qXdNN0w-Io1s_kiMO5-58" value="Entrega reporte" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1233.75" y="320" width="156.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E0qXdNN0w-Io1s_kiMO5-59" value="cuenta@correo.com" style="text;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=middle;align=center;labelBackgroundColor=none;strokeColor=default;textDirection=ltr;" vertex="1" parent="1">
+          <mxGeometry x="1232.5" y="350" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="E0qXdNN0w-Io1s_kiMO5-60" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="34" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="E0qXdNN0w-Io1s_kiMO5-61" value="SIGUIENTE" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="790" y="364" width="105.5" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="E0qXdNN0w-Io1s_kiMO5-62" value="SIGUIENTE" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1027.25" y="364" width="105.5" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="E0qXdNN0w-Io1s_kiMO5-63" value="FINALIZAR" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1487.25" y="359.06" width="105.5" height="16.88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
