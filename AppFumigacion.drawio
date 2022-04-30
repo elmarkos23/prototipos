@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-30T16:20:07.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="R_G1pgkQdYgHOsMeNGmr" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-30T16:22:12.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="h1LDK7t8-emcw17gJFFI" version="17.5.0" type="github">
   <diagram id="B1rS9bqpKSy4gRJ6OLqf" name="Page-1">
-    <mxGraphModel dx="2162" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1353" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,6 +202,9 @@
         </mxCell>
         <mxCell id="E0qXdNN0w-Io1s_kiMO5-78" value="SIGUIENTE" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="97.25" y="370" width="105.5" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="E0qXdNN0w-Io1s_kiMO5-79" value="El reporte se enviara con los datos ingresados" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="213" width="156.25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
