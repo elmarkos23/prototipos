@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-30T16:09:09.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="62nkomljSBUN0-4i_-Ch" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-30T16:09:41.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="sbSh8JXpQquASN-tFKE-" version="17.5.0" type="github">
   <diagram id="B1rS9bqpKSy4gRJ6OLqf" name="Page-1">
     <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,6 +114,12 @@
             <mxGeometry x="1072.5" y="215" width="100" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="E0qXdNN0w-Io1s_kiMO5-48" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="35" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="E0qXdNN0w-Io1s_kiMO5-49" value="CALIFICACION" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar;fillColor=#E6E6E6;strokeColor=#c0c0c0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1227.5" y="71" width="185" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
