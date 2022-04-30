@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-30T15:59:26.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="rNG_u-4IckJoySZnappE" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-30T16:00:33.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="KcaiGlvmhDoID1_S2xdA" version="17.5.0" type="github">
   <diagram id="B1rS9bqpKSy4gRJ6OLqf" name="Page-1">
     <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,6 +78,12 @@
         </mxCell>
         <mxCell id="E0qXdNN0w-Io1s_kiMO5-33" value="RAS/AERE/AREA&amp;nbsp;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.spinner2;align=center;fillColor=#999999;strokeColor=#999999;verticalAlign=bottom" vertex="1" parent="1">
           <mxGeometry x="570" y="113.12" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="E0qXdNN0w-Io1s_kiMO5-34" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="34" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="E0qXdNN0w-Io1s_kiMO5-35" value="TIPO VECTOR" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar;fillColor=#E6E6E6;strokeColor=#c0c0c0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="757.5" y="70" width="185" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
