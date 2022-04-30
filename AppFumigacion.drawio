@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-30T16:10:51.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="mj8Eq2FqlhFiDRs2ha-U" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-30T16:12:31.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="z-nBafn7EGHCr1CpYXpx" version="17.5.0" type="github">
   <diagram id="B1rS9bqpKSy4gRJ6OLqf" name="Page-1">
     <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,6 +122,24 @@
         </mxCell>
         <mxCell id="E0qXdNN0w-Io1s_kiMO5-50" value="Observacion" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1227.5" y="100" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E0qXdNN0w-Io1s_kiMO5-51" value="Proxima Visita" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1233.75" y="255" width="97.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E0qXdNN0w-Io1s_kiMO5-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-2/50/star-favorite-favourite-rating-score-128.png;strokeColor=default;fillColor=#6666FF;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="285" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="E0qXdNN0w-Io1s_kiMO5-54" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-2/50/star-favorite-favourite-rating-score-128.png;strokeColor=default;fillColor=#6666FF;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="285" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="E0qXdNN0w-Io1s_kiMO5-55" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-2/50/star-favorite-favourite-rating-score-128.png;strokeColor=default;fillColor=#6666FF;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="285" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="E0qXdNN0w-Io1s_kiMO5-56" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-2/50/star-favorite-favourite-rating-score-128.png;strokeColor=default;fillColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="285" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="E0qXdNN0w-Io1s_kiMO5-57" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-2/50/star-favorite-favourite-rating-score-128.png;strokeColor=default;fillColor=#6666FF;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="285" width="26" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
