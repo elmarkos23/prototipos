@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-30T16:04:53.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="xM4CpMFzXFIdkrHqdJG2" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-30T16:06:12.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="J9zqR7nmOyi3L7HML6Xr" version="17.5.0" type="github">
   <diagram id="B1rS9bqpKSy4gRJ6OLqf" name="Page-1">
     <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,8 +103,11 @@
         <mxCell id="E0qXdNN0w-Io1s_kiMO5-43" value="OBSERVACIONES" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar;fillColor=#E6E6E6;strokeColor=#c0c0c0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="987.5" y="70" width="185" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E0qXdNN0w-Io1s_kiMO5-44" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="990" y="103.12" width="180" height="116.88" as="geometry" />
+        <mxCell id="E0qXdNN0w-Io1s_kiMO5-44" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="990" y="101" width="180" height="92.44" as="geometry" />
+        </mxCell>
+        <mxCell id="E0qXdNN0w-Io1s_kiMO5-45" value="Tipo" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="230" width="34" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
